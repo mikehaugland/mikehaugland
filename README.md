@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Senior Full Stack Developer at Unity working on Hub.
+
 <!--
 **mikehaugland/mikehaugland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
