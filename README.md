@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Lead Software Developer at Unity working on Hub.
+I'm a Staff Frontend Engineer at ProcedureFlow.
 
 <!--
 **mikehaugland/mikehaugland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
